@@ -32,4 +32,10 @@ torch.save(CIFAR100_dataset, 'cv-hw3/test/CIFAR100_dataset.pth')
 3. ImageNet数据集
 https://image-net.org/challenges/LSVRC/2012/index.php#
 
+请将训练集保存到train文件夹中，测试集保存到test文件夹中
+
 # 模型训练
+运行 main.py
+
+# 模型权重
+下载后放到model文件夹中
