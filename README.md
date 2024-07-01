@@ -38,4 +38,8 @@ https://image-net.org/challenges/LSVRC/2012/index.php#
 运行 main.py
 
 # 模型权重
-下载后放到model文件夹中
+百度网盘下载后放到model文件夹中
+
+链接：https://pan.baidu.com/s/1pEHUlUr7mtEMcS1mZgjDNQ?pwd=ln6e 
+
+提取码：ln6e
